@@ -69,6 +69,10 @@ body {
   width: inherit;
 }
 
+#info {
+  text-align: left;
+  margin-left: 30pt;
+}
 ul#icons {
   padding: 0;
   text-align: center;
@@ -98,6 +102,10 @@ ul#icons a {
 ul#icons a:hover {
   color: #ffff00;
   text-decoration: none;
+}
+
+#hi {
+  color: #ffff00;
 }
 
 footer {
