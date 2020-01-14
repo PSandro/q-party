@@ -21,6 +21,12 @@ body {
   width: inherit;
 }
 
+.instagram {
+  margin: auto;
+  margin-top: 10px;
+  max-width:486px;
+  min-width:326px;
+}
 
 #card {
   margin: auto;
